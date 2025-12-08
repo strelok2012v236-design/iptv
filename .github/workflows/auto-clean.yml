@@ -1,0 +1,40 @@
+name: Автоочистка с бэкапом
+
+on:
+  schedule:
+    - cron: "0 2 * * *"  # Каждую ночь в 5:00 МСК
+  workflow_dispatch:      # Ручной запуск
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Создать бэкап
+        run: |
+          DATE=$(date +%Y%m%d)
+          cp iptv.m3u8 iptv_backup_$DATE.m3u8
+          git add iptv_backup_$DATE.m3u8
+          git commit -m "Бэкап $DATE" || echo "Бэкап существует"
+          git push
+      
+      - name: Проверить потоки
+        run: |
+          # Установка зависимостей
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          
+          # Скачиваем скрипт проверки
+          curl -O https://raw.githubusercontent.com/4gray/iptv-checker/main/iptv-checker.py
+          
+          # Запускаем проверку
+          python3 iptv-checker.py --input iptv.m3u8 --output iptv.m3u8 --timeout 15 --threads 3
+      
+      - name: Сохранить изменения
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add iptv.m3u8
+          git commit -m "Автоочистка: удалены нерабочие каналы" || echo "Нет изменений"
+          git push
