@@ -58,7 +58,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/621760
 #EXTINF:-1,RU: Рен ТВ INTERNATIONAL.
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/621755
 #EXTINF:-1,RU: СТС INTERNATIONAL.
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/621754
+http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/15228/index.m3u8
 #EXTINF:-1,RU: TV 8 RUSSIA.
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/621752
 #EXTINF:-1,RU: POBEDA HD
@@ -257,8 +257,8 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/608807
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/608806
 #EXTINF:-1,RU: TV1000SSKOJE KINO
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/608805
-#EXTINF:-1,RU: TVCI
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/608803
+#EXTINF:-1,RU: ТВЦ
+http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/19222/index.m3u8
 #EXTINF:-1,RU: DJING TV
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/608802
 #EXTINF:-1,RU: VIASAT EXPLORE HD
@@ -364,7 +364,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/299899
 #EXTINF:-1,RU: FOX LIFE HD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/211605
 #EXTINF:-1,RU: НТВ HD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/211582
+http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/213/index.m3u8
 #EXTINF:-1,RU: HD ONE MUSIC
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/300023
 #EXTINF:-1,RU: ILLUSION
@@ -745,20 +745,12 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581286
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581281
 #EXTINF:-1,RU: LA MINOR
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581278
-#EXTINF:-1,RU: MIR SERIALA
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581262
-#EXTINF:-1,RU: MULTIMANIA
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581255
-#EXTINF:-1,RU: NAT GEO WILD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581248
-#EXTINF:-1,RU: NST TV
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581243
 #EXTINF:-1,RU: OHOTA I RYBALKA
 http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/hafi/16/playlist.m3u8
 #EXTINF:-1,RU: PERVIY KANAL
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581239
-#EXTINF:-1,RU: RUSSKIJ ROMAN
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581216
+#EXTINF:-1,RU: VF Охота
+http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/15513/index.m3u8
 #EXTINF:-1,RU: SAINT PETERBURG
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581212
 #EXTINF:-1,RU: SET HD
@@ -1943,6 +1935,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609213
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609212
 #EXTINF:-1,UKR: X SPORT  FHD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490692
+
 
 
 
