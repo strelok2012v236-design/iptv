@@ -208,9 +208,9 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/608852
 #EXTINF:-1,RU: NICKELODEON
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/608850
 #EXTINF:-1,RU: РАДИО ШАНСОН
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/608849
-#EXTINF:-1,RU: KULINAR TV SHOW
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/608848
+http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/16036/index.m3u8
+#EXTINF:-1,RU: Шансон ТВ
+http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/859/index.m3u8
 #EXTINF:-1,RU: DANCE HITS 80 HD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/608846
 #EXTINF:-1,RU: RBK TV
@@ -609,10 +609,6 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/550143
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/550141
 #EXTINF:-1,RU: START WORLD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/550137
-#EXTINF:-1,RU: START AIR
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/550136
-#EXTINF:-1,RU: FAN
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/550135
 #EXTINF:-1,RU: РУССКИЙ РОМАН
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/550123
 #EXTINF:-1,RU: SHOT TV
@@ -637,14 +633,6 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/550101
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/550100
 #EXTINF:-1,RU: КИНОХИТ
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/550097
-#EXTINF:-1,RU: SONY TURBO BLACK FHD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/550095
-#EXTINF:-1,RU: ABTO24
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/550091
-#EXTINF:-1,RU: FAST & FUNBOX HD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/550089
-#EXTINF:-1,RU: E TV
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/550088
 #EXTINF:-1,RU: VIJU+ SPORT
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/550081
 #EXTINF:-1,RU: KHL
@@ -766,7 +754,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581248
 #EXTINF:-1,RU: NST TV
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581243
 #EXTINF:-1,RU: OHOTA I RYBALKA
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581242
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/hafi/16/playlist.m3u8
 #EXTINF:-1,RU: PERVIY KANAL
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581239
 #EXTINF:-1,RU: RUSSKIJ ROMAN
@@ -904,7 +892,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/639217
 #EXTINF:-1,RU: FOOD NETWORK
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/639216
 #EXTINF:-1,RU: DIALOGI O RYBALKE
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/639215
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8
 #EXTINF:-1,RU: SCARRY MOVIE HD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/639214
 #EXTINF:-1,RU: START TV
@@ -1599,8 +1587,6 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/510418
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/510417
 #EXTINF:-1,RU: |VIP| SETANTA SPORT 2 FHD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/510416
-#EXTINF:-1,RU: |VIP| SHANSON TV
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/510415
 #EXTINF:-1,RU: |VIP| SHOKIRUYUSCHEE
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/510414
 #EXTINF:-1,RU: |VIP| SONY TURBO BLACK
@@ -1957,6 +1943,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609213
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609212
 #EXTINF:-1,UKR: X SPORT  FHD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490692
+
 
 
 
