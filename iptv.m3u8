@@ -147,8 +147,8 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/280770
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/431475
 #EXTINF:-1,UKR: NTK
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/431473
-#EXTINF:-1,UKR: TERNOPIL 1
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/431467
+#EXTINF:-1,UKR: Рибалка ТБ HD
+srt://95.67.8.207:6221
 #EXTINF:-1,UKR: М2
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/431459
 #EXTINF:-1,UKR: SETANTA SPORT PLUS FHD
@@ -161,8 +161,8 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/1016/index.m3u8
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490709
 #EXTINF:-1,UKR: ENTERFILM
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490706
-#EXTINF:-1,UKR: LALE
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490705
+#EXTINF:-1,UKR: 1+1
+srt://95.67.8.84:9086
 #EXTINF:-1,UKR: M1
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490704
 #EXTINF:-1,UKR: M2 ESTRADA
@@ -311,6 +311,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609213
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609212
 #EXTINF:-1,UKR: X SPORT  FHD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490692
+
 
 
 
