@@ -55,10 +55,6 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/608925
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/228/index.m3u8
 #EXTINF:-1,RU: HTB HD
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190237
-#EXTINF:-1,RU: РОССИЯ 1 HD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/550310
-#EXTINF:-1,RU: НТВ СТИЛЬ
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/550306
 #EXTINF:-1,RU: МИР
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190248
 #EXTINF:-1,RU: МИР 24
@@ -73,32 +69,20 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/9147/index.m3u8
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/16036/index.m3u8
 #EXTINF:-1,RU: Шансон ТВ
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/859/index.m3u8
-#EXTINF:-1,RU: SETANTA SPORT 2
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/608826
-#EXTINF:-1,RU: SETANTA SPORTS 1 FHD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/608825
 #EXTINF:-1,RU: ТВЦ
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/19222/index.m3u8
+http://178.163.7.53:81/udp/234.0.0.192:2000
 #EXTINF:-1,RU: EUROSPORT
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/141/index.m3u8
 #EXTINF:-1,RU: EUROSPORT 2 HD
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190404
 #EXTINF:-1,RU: НТВ HD
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/213/index.m3u8
-#EXTINF:-1,RU: Первый канал HD
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/204/index.m3u8
-#EXTINF:-1,RU: HD LIFE
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581437
-#EXTINF:-1,RU: 5 KANAL RU
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581375
-#EXTINF:-1,RU: EUROSPORT 1
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581325
 #EXTINF:-1,RU: LA MINOR
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581278
 #EXTINF:-1,RU: Охота и рыбалка
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190273
 #EXTINF:-1,RU: Первый канал
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/127/index.m3u8
+http://178.163.7.53:81/udp/234.0.0.200:2000
 #EXTINF:-1,RU: VF Охота
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/15513/index.m3u8
 #EXTINF:-1,RU: СТС HD
@@ -111,10 +95,8 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/917/index.m3u8
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/399580
 #EXTINF:-1,UKR: ZOOM HD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433752
-#EXTINF:-1,UKR: TET
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/1009/index.m3u8
-#EXTINF:-1,UKR: NTN
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490693
+#EXTINF:-1,UKR: 1+1
+http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/987/index.m3u8
 #EXTINF:-1,UKR: NTN
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433735
 #EXTINF:-1,UKR: MEGA HD
@@ -139,34 +121,18 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/399575
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/280783
 #EXTINF:-1,UKR: CHANNEL 5 HD
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/1030/index.m3u8
-#EXTINF:-1,UKR: CHANNEL 5  (UKRAINE)
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/280771
 #EXTINF:-1,UKR: KYIV TV
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/280770
 #EXTINF:-1,UKR: LEOMAX 24
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/431475
 #EXTINF:-1,UKR: NTK
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/431473
-#EXTINF:-1,UKR: Рибалка ТБ HD
-srt://95.67.8.207:6221
-#EXTINF:-1,UKR: М2
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/431459
-#EXTINF:-1,UKR: SETANTA SPORT PLUS FHD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490713
-#EXTINF:-1,UKR: SETANTA SPORT FHD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490712
 #EXTINF:-1,UKR: 2+2
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/1016/index.m3u8
-#EXTINF:-1,UKR: 5KANAL UKRAINA
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490709
 #EXTINF:-1,UKR: ENTERFILM
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490706
 #EXTINF:-1,UKR: 1+1
 srt://95.67.8.84:9086
-#EXTINF:-1,UKR: M1
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490704
-#EXTINF:-1,UKR: M2 ESTRADA
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490703
 #EXTINF:-1,UKR: Новий Канал
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/935/index.m3u8
 #EXTINF:-1,UKR: NEWS NETWORK
@@ -207,8 +173,6 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643961
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/6339/index.m3u8
 #EXTINF:-1,UKR: WE-UKRAINE+
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643959
-#EXTINF:-1,UKR: 1+1
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/987/index.m3u8
 #EXTINF:-1,UKR: PRYAMIY
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643955
 #EXTINF:-1,UKR: ICTV HD
@@ -225,76 +189,6 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643927
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643926
 #EXTINF:-1,UKR: TVIY SERIAL
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643925
-#EXTINF:-1,UKR: SUPER+
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643924
-#EXTINF:-1,UKR: MILADY TV
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643923
-#EXTINF:-1,UKR: GALYCHYNA HD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643922
-#EXTINF:-1,UKR: NEW CHRISTIAN
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643921
-#EXTINF:-1,UKR: TELEVSESVIT
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643920
-#EXTINF:-1,UKR: ESPRESO TV HD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643919
-#EXTINF:-1,UKR: KYIV24
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643918
-#EXTINF:-1,UKR: ENTER FILM HD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643917
-#EXTINF:-1,UKR: ERC
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643916
-#EXTINF:-1,UA: ТЮСО
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609244
-#EXTINF:-1,UA: ТЕЛЕКАНАЛ РЕПОРТЕР ОДЕССА
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609243
-#EXTINF:-1,UA: 24 КАНАЛ FHD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609242
-#EXTINF:-1,UA: ТЕРНОПІЛЬ 1
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609241
-#EXTINF:-1,UA: SETANTA SPORTS+ HD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609240
-#EXTINF:-1,UA: STAR FAMILY
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609239
-#EXTINF:-1,UA: НАДИЯ/НОВЫЙ КАНАЛ
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609238
-#EXTINF:-1,UA: НАДІЯ
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609237
-#EXTINF:-1,UA: SIMON
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609236
-#EXTINF:-1,UA: НТК
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609235
-#EXTINF:-1,UA: ТВА (ЧЕРНIВЦI)  HD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609234
-#EXTINF:-1,UA: ICTV
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609233
-#EXTINF:-1,UA: GNC EUROPE FHD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609232
-#EXTINF:-1,UA: СК1 ЖИТОМИР
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609231
-#EXTINF:-1,UA: ТВА (ЧЕРНIВЦI)
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609230
-#EXTINF:-1,UA: СФЕРА ТВ
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609229
-#EXTINF:-1,UA: ТЕТ
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609228
-#EXTINF:-1,UA: ITV HD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609227
-#EXTINF:-1,UA: EWTN FHD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609226
-#EXTINF:-1,UA: ПЕРВЫЙ ГОРОДСКОЙ (ОДЕССА)
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609225
-#EXTINF:-1,UA: BLACK SEA TV
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609224
-#EXTINF:-1,UA: DNIPRO TV FHD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609223
-#EXTINF:-1,UA: GIT
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609222
-#EXTINF:-1,UA: SETANTA SPORTS HD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609221
-#EXTINF:-1,UA: TIS TV HD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609220
-#EXTINF:-1,UA: МЕГА
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609219
 #EXTINF:-1,UA: PTV HD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609218
 #EXTINF:-1,UA: IZMAIL TV
@@ -311,6 +205,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609213
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609212
 #EXTINF:-1,UKR: X SPORT  FHD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490692
+
 
 
 
