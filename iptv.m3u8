@@ -73,6 +73,8 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/9146/index.m3u8
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/9147/index.m3u8
 #EXTINF:-1,RU: РАДИО ШАНСОН
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/16036/index.m3u8
+#EXTINF:-1,RU: Шансон ТВ HD
+http://86.57.209.210/Shanson/index.m3u8
 #EXTINF:-1,RU: Шансон ТВ
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/859/index.m3u8
 #EXTINF:-1,RU: ТВЦ
@@ -205,6 +207,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609213
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609212
 #EXTINF:-1,UKR: X SPORT  FHD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490692
+
 
 
 
