@@ -11,6 +11,12 @@ http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190250
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/237/index.m3u8
 #EXTINF:-1,RU: 5 Канал
 http://pl.online24.pm/play/169/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1,RU: ТВ Центр
+http://10.224.1.30:44989/play/666/index.m3u8
+#EXTINF:-1,RU: СТС
+http://10.224.1.30:44989/play/664/index.m3u8
+#EXTINF:-1,RU: НТВ
+http://10.224.1.30:44989/play/653/index.m3u8
 #EXTINF:-1,RU: МАТЧ Футбол 1
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190420
 #EXTINF:-1,RU: МАТЧ Футбол 2 HD
@@ -25,6 +31,14 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/611264
 http://euroroyals.com:8080/necati3434TRTR/083763927363hh3/190419
 #EXTINF:-1,RU: Матч Игра HD
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190424
+#EXTINF:-1,RU: EUROSPORT 1 HD
+http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/611226
+#EXTINF:-1,RU: EUROSPORT
+http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/141/index.m3u8
+#EXTINF:-1,RU: EUROSPORT 2 HD
+http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190404
+#EXTINF:-1,RU: EUROSPORT HD
+http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/228/index.m3u8
 #EXTINF:-1,RU: Звезда ТВ
 http://euroroyals.com:8080/necati3434TRTR/083763927363hh3/190250
 #EXTINF:-1,RU: TV1000 РУССКОЕ HD
@@ -39,22 +53,12 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/9147/index.m3u8
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/743/index.m3u8
 #EXTINF:-1,RU: НТВ Мир
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/621760
-#EXTINF:-1,RU: ТВ Центр
-http://10.224.1.30:44989/play/666/index.m3u8
-#EXTINF:-1,RU: СТС
-http://10.224.1.30:44989/play/664/index.m3u8
-#EXTINF:-1,RU: НТВ
-http://10.224.1.30:44989/play/653/index.m3u8
 #EXTINF:-1,RU: Охотник и Рыболов
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/917/index.m3u8
 #EXTINF:-1,RU: MUZYKA PERVOGO
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/611239
-#EXTINF:-1,RU: EUROSPORT 1 HD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/611226
 #EXTINF:-1,RU: Дикая Рыбалка HD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/608925
-#EXTINF:-1,RU: EUROSPORT HD
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/228/index.m3u8
 #EXTINF:-1,RU: HTB HD
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190237
 #EXTINF:-1,RU: МИР
@@ -73,10 +77,6 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/16036/index.m3u8
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/859/index.m3u8
 #EXTINF:-1,RU: ТВЦ
 http://178.163.7.53:81/udp/234.0.0.192:2000
-#EXTINF:-1,RU: EUROSPORT
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/141/index.m3u8
-#EXTINF:-1,RU: EUROSPORT 2 HD
-http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190404
 #EXTINF:-1,RU: НТВ HD
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/213/index.m3u8
 #EXTINF:-1,RU: LA MINOR
@@ -205,6 +205,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609213
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609212
 #EXTINF:-1,UKR: X SPORT  FHD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490692
+
 
 
 
