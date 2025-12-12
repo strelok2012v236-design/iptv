@@ -59,8 +59,8 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/917/index.m3u8
 http://10.224.1.30:44990/play/761/index.m3u8
 #EXTINF:-1,RU: Дикая Рыбалка HD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/608925
-#EXTINF:-1,RU: HTB HD
-http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190237
+#EXTINF:-1,RU: HTB
+http://10.224.1.30:44989/play/653/index.m3u8
 #EXTINF:-1,RU: МИР
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190248
 #EXTINF:-1,RU: МИР 24
@@ -207,6 +207,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609213
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609212
 #EXTINF:-1,UKR: X SPORT  FHD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490692
+
 
 
 
