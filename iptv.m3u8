@@ -11,8 +11,8 @@ http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190250
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/237/index.m3u8
 #EXTINF:-1,RU: 5 Канал
 http://10.224.1.30:44989/play/659/index.m3u8
-#EXTINF:-1,RU: ТВ Центр
-http://10.224.1.30:44989/play/666/index.m3u8
+#EXTINF:-1,RU: ТВЦ
+http://178.163.7.53:81/udp/234.0.0.192:2000
 #EXTINF:-1,RU: СТС
 http://10.224.1.30:44989/play/664/index.m3u8
 #EXTINF:-1,RU: НТВ
@@ -77,8 +77,6 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/16036/index.m3u8
 http://86.57.209.210/Shanson/index.m3u8
 #EXTINF:-1,RU: Шансон ТВ
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/859/index.m3u8
-#EXTINF:-1,RU: ТВЦ
-http://178.163.7.53:81/udp/234.0.0.192:2000
 #EXTINF:-1,RU: НТВ HD
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/213/index.m3u8
 #EXTINF:-1,RU: LA MINOR
@@ -207,6 +205,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609213
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609212
 #EXTINF:-1,UKR: X SPORT  FHD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490692
+
 
 
 
