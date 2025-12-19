@@ -46,7 +46,7 @@ srt://95.67.8.224:9105
 #EXTINF:-1,RU: EUROSPORT 2 HD
 http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/234/index.m3u8
 #EXTINF:-1,RU: Звезда ТВ
-http://euroroyals.com:8080/necati3434TRTR/083763927363hh3/190250
+http://178.163.15.113:4022/udp/234.0.0.237:2000
 #EXTINF:-1,RU: TV1000 РУССКОЕ HD
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/6388/index.m3u8
 #EXTINF:-1,RU: TV 1000 HD
@@ -78,7 +78,7 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/2107/index.m3u8
 #EXTINF:-1,RU: Мир HD
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/15119/index.m3u8
 #EXTINF:-1,RU: НТВ ХИТ
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/9146/index.m3u8
+http://178.163.15.113:4022/udp/234.0.0.236:2000
 #EXTINF:-1,RU: НТВ СЕРИАЛ
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/9147/index.m3u8
 #EXTINF:-1,RU: РАДИО ШАНСОН
@@ -91,7 +91,7 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/859/index.m3u8
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/213/index.m3u8
 #EXTINF:-1,RU: LA MINOR
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581278
-#EXTINF:-1,RU: Охота и рыбалка
+#EXTINF:-1,Охота и рыбалка
 http://178.163.15.113:4022/udp/234.0.0.230:2000
 #EXTINF:-1,RU: VF Охота
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/15513/index.m3u8
@@ -203,6 +203,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643926
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643925
 #EXTINF:-1,Kino TV HD
 srt://95.67.8.224:9063
+
 
 
 
