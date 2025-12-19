@@ -3,6 +3,8 @@
 http://10.224.1.30:44989/play/657/index.m3u8
 #EXTINF:-1,RU: Россия 1
 http://10.224.1.30:44989/play/661/index.m3u8
+#EXTINF:-1,Россия HD
+http://178.163.15.113:4022/udp/234.0.0.112:2000
 #EXTINF:-1,RU: Россия 24
 http://pl.online24.pm/play/49/5FD91ED329C33F6/video.m3u8
 #EXTINF:-1,RU: Звезда
@@ -17,6 +19,8 @@ http://178.163.7.53:81/udp/234.0.0.192:2000
 http://10.224.1.30:44989/play/664/index.m3u8
 #EXTINF:-1,RU: НТВ
 http://10.224.1.30:44989/play/653/index.m3u8
+#EXTINF:-1,Русский бестселлер
+http://178.163.15.113:4022/udp/234.0.0.250:2000
 #EXTINF:-1,RU: МАТЧ Футбол 1
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190420
 #EXTINF:-1,RU: МАТЧ Футбол 2 HD
@@ -45,6 +49,8 @@ http://euroroyals.com:8080/necati3434TRTR/083763927363hh3/190250
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/6388/index.m3u8
 #EXTINF:-1,RU: TV 1000 HD
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/6387/index.m3u8
+#EXTINF:-1,Любимое кино
+http://178.163.15.113:4022/udp/234.0.0.102:2000
 #EXTINF:-1,RU: НТВ Стиль
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/20037/index.m3u8
 #EXTINF:-1,RU: НТВ Сериал
@@ -55,6 +61,8 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/743/index.m3u8
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/621760
 #EXTINF:-1,RU: Охотник и Рыболов
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/917/index.m3u8
+#EXTINF:-1,Дикая охота HD
+http://178.163.15.113:4022/udp/234.0.0.11:2000
 #EXTINF:-1,RU: ТВ-3
 http://10.224.1.30:44990/play/761/index.m3u8
 #EXTINF:-1,RU: Дикая Рыбалка HD
@@ -82,7 +90,7 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/213/index.m3u8
 #EXTINF:-1,RU: LA MINOR
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581278
 #EXTINF:-1,RU: Охота и рыбалка
-http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190273
+http://178.163.15.113:4022/udp/234.0.0.230:2000
 #EXTINF:-1,RU: VF Охота
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/15513/index.m3u8
 #EXTINF:-1,RU: СТС HD
@@ -205,6 +213,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609213
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609212
 #EXTINF:-1,UKR: X SPORT  FHD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490692
+
 
 
 
