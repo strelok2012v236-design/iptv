@@ -9,6 +9,8 @@ http://178.163.15.113:4022/udp/234.0.0.112:2000
 http://pl.online24.pm/play/49/5FD91ED329C33F6/video.m3u8
 #EXTINF:-1,RU: Звезда
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190250
+#EXTINF:-1,RU: Мужское кино
+http://de.online24.pm/play/209/5FD91ED329C33F6/video.m3u8
 #EXTINF:-1,RU: ТНТ HD
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/237/index.m3u8
 #EXTINF:-1,RU: 5 Канал
@@ -38,9 +40,9 @@ http://euroroyals.com:8080/necati3434TRTR/083763927363hh3/190419
 #EXTINF:-1,RU: Матч Игра HD
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190424
 #EXTINF:-1,RU: EUROSPORT 1 HD
-http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/5075/index.m3u8
+srt://95.67.8.224:9113
 #EXTINF:-1,RU: EUROSPORT
-http://vipl.one/high/3ylmr5bzg6/37.m3u8
+srt://95.67.8.224:9105
 #EXTINF:-1,RU: EUROSPORT 2 HD
 http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/234/index.m3u8
 #EXTINF:-1,RU: Звезда ТВ
@@ -102,33 +104,35 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/917/index.m3u8
 #EXTINF:-1,UKR: ----- UKRAINE -----
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/399580
 #EXTINF:-1,UKR: ZOOM HD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433752
+srt://95.67.8.207:8385
 #EXTINF:-1,UKR: 1+1
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/987/index.m3u8
-#EXTINF:-1,UKR: NTN
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433735
-#EXTINF:-1,UKR: MEGA HD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433733
+srt://95.67.8.84:9086
+#EXTINF:-1,UKR: НТН
+srt://95.67.8.224:9136
+#EXTINF:-1,Наше улюблене кіно
+srt://95.67.8.224:9223
 #EXTINF:-1,UKR: K2 HD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433731
 #EXTINF:-1,UKR: K1 HD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433730
-#EXTINF:-1,UKR: INTER HD
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/1047/index.m3u8
-#EXTINF:-1,UKR: BTQ
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433723
+#EXTINF:-1,UKR: Інтер
+srt://95.67.8.224:9094
+#EXTINF:-1,UKR: Інтер+ 
+srt://95.67.8.207:5151
+#EXTINF:-1,Суспільне Донбас
+srt://95.67.8.224:9217
 #EXTINF:-1,UKR: 8 KANAL INT
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433722
 #EXTINF:-1,UKR: 24 KANAL
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433721
 #EXTINF:-1,UKR: 2+2
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/995/index.m3u8
-#EXTINF:-1,UKR: STB HD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/399575
+#EXTINF:-1,UKR: СТБ HD
+srt://95.67.8.207:5418
 #EXTINF:-1,UKR: 1+1 INTERNATIONAL
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/280783
 #EXTINF:-1,UKR: CHANNEL 5 HD
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/1030/index.m3u8
+srt://95.67.8.84:9119
 #EXTINF:-1,UKR: KYIV TV
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/280770
 #EXTINF:-1,UKR: LEOMAX 24
@@ -139,10 +143,10 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/431473
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/1016/index.m3u8
 #EXTINF:-1,UKR: ENTERFILM
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490706
-#EXTINF:-1,UKR: 1+1
-srt://95.67.8.84:9086
+#EXTINF:-1,Рибалка ТБ HD
+srt://95.67.8.207:9023
 #EXTINF:-1,UKR: Новий Канал
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/935/index.m3u8
+srt://95.67.8.207:8003
 #EXTINF:-1,UKR: NEWS NETWORK
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490697
 #EXTINF:-1,UKR: SPORT 1
@@ -150,11 +154,11 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/6313/index.m3u8
 #EXTINF:-1,UKR: SPORT 2
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/6314/index.m3u8
 #EXTINF:-1,UKR: 1+1 MARAFON
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/6317/index.m3u8
+srt://95.67.8.207:8111
 #EXTINF:-1,UKR: 2+2 MARAFON
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490694
 #EXTINF:-1,UKR: Україна
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/31731/index.m3u8
+srt://95.67.8.224:9216
 #EXTINF:-1,UKR: EKO TV
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643973
 #EXTINF:-1,UKR: KARAVAN TV
@@ -165,16 +169,16 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643971
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643970
 #EXTINF:-1,UKR: DIM TV
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643968
-#EXTINF:-1,UKR: Перший
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/1016/index.m3u8
+#EXTINF:-1,Перший HD
+srt://95.67.8.207:5412
 #EXTINF:-1,UKR: TBN UKRAINE
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643965
 #EXTINF:-1,UKR: ECHO
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643964
 #EXTINF:-1,UKR: SBN INTERNATIONAL
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643963
-#EXTINF:-1,UKR: TET SD
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/1009/index.m3u8
+#EXTINF:-1,UKR: TET
+srt://95.67.8.224:9035
 #EXTINF:-1,UKR: SONCE (UA)
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643961
 #EXTINF:-1,UKR: ICTV 2 SD
@@ -183,8 +187,8 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/6339/index.m3u8
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643959
 #EXTINF:-1,UKR: PRYAMIY
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643955
-#EXTINF:-1,UKR: ICTV HD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643931
+#EXTINF:-1,UKR: ICTV
+srt://95.67.8.207:8022
 #EXTINF:-1,UKR: Новий Канал HD
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/15128/index.m3u8
 #EXTINF:-1,UKR: M1 HD
@@ -197,22 +201,9 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643927
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643926
 #EXTINF:-1,UKR: TVIY SERIAL
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643925
-#EXTINF:-1,UA: PTV HD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609218
-#EXTINF:-1,UA: IZMAIL TV
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609217
-#EXTINF:-1,UA: TV7+
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609216
-#EXTINF:-1,UA: РЕПОРТЕР
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609215
-#EXTINF:-1,UA: TRK KRUG
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609214
-#EXTINF:-1,UA: ОБЪЕКТИВ 59
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609213
-#EXTINF:-1,UA: ЧЕРНІВЕЦЬКИЙ ПРОМІНЬ
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/609212
-#EXTINF:-1,UKR: X SPORT  FHD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490692
+#EXTINF:-1,Kino TV HD
+srt://95.67.8.224:9063
+
 
 
 
