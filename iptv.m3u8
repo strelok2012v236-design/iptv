@@ -28,7 +28,7 @@ http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190420
 #EXTINF:-1,RU: МАТЧ Футбол 2 HD
 http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/611267
 #EXTINF:-1,RU: МАТЧ Футбол 3 HD
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/2408/index.m3u8
+http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/611266
 #EXTINF:-1,RU: Матч ТВ
 http://10.224.1.30:44990/play/830/index.m3u8
 #EXTINF:-1,RU: Матч ТВ HD
@@ -56,11 +56,11 @@ http://178.163.15.113:4022/udp/234.0.0.102:2000
 #EXTINF:-1,RU: НТВ Стиль
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/20037/index.m3u8
 #EXTINF:-1,RU: НТВ Сериал
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/9147/index.m3u8
+http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/621762
 #EXTINF:-1,RU: НТВ Право
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/743/index.m3u8
 #EXTINF:-1,RU: НТВ Мир
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/621760
+http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/621760
 #EXTINF:-1,RU: Охотник и Рыболов
 http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/510459
 #EXTINF:-1,Дикая охота HD
@@ -82,7 +82,7 @@ http://178.163.15.113:4022/udp/234.0.0.236:2000
 #EXTINF:-1,RU: НТВ СЕРИАЛ
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/9147/index.m3u8
 #EXTINF:-1,RU: РАДИО ШАНСОН
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/16036/index.m3u8
+http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/431556
 #EXTINF:-1,RU: Шансон ТВ HD
 http://86.57.209.210/Shanson/index.m3u8
 #EXTINF:-1,RU: Шансон ТВ
@@ -203,6 +203,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643926
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643925
 #EXTINF:-1,Kino TV HD
 srt://95.67.8.224:9063
+
 
 
 
