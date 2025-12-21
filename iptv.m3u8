@@ -64,7 +64,7 @@ http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/621760
 #EXTINF:-1,RU: Охотник и Рыболов
 http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/510459
 #EXTINF:-1,Дикая охота HD
-http://178.163.15.113:4022/udp/234.0.0.11:2000
+http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/581345
 #EXTINF:-1,RU: ТВ-3
 http://10.224.1.30:44990/play/761/index.m3u8
 #EXTINF:-1,RU: Дикая Рыбалка HD
@@ -92,7 +92,7 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/213/index.m3u8
 #EXTINF:-1,RU: LA MINOR
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581278
 #EXTINF:-1,Охота и рыбалка
-http://178.163.15.113:4022/udp/234.0.0.230:2000
+http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/581242
 #EXTINF:-1,RU: VF Охота
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/15513/index.m3u8
 #EXTINF:-1,RU: СТС HD
@@ -203,6 +203,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643926
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643925
 #EXTINF:-1,Kino TV HD
 srt://95.67.8.224:9063
+
 
 
 
