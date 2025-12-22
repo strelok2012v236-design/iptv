@@ -11,6 +11,8 @@ http://pl.online24.pm/play/49/5FD91ED329C33F6/video.m3u8
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190250
 #EXTINF:-1,RU: Мужское кино
 http://de.online24.pm/play/209/5FD91ED329C33F6/video.m3u8
+#EXTINF:-1 tvg-id="TV4RU" tvg-name="TV4RU" tvg-logo="https://i.ibb.co/mVR1d4qx/hdlogo.png" group-title="Vokka Production",TV4 Русское кино HD
+https://dvr3.vokkavideo.xyz/TV4RUKINO/index.m3u8
 #EXTINF:-1,RU: ТНТ HD
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/237/index.m3u8
 #EXTINF:-1,RU: 5 Канал
@@ -203,6 +205,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643926
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643925
 #EXTINF:-1,Kino TV HD
 srt://95.67.8.224:9063
+
 
 
 
