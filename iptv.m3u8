@@ -108,7 +108,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/399580
 #EXTINF:-1,UKR: ZOOM HD
 srt://95.67.8.207:8385
 #EXTINF:-1,UKR: 1+1
-srt://95.67.8.84:9086
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782591&extension=ts
 #EXTINF:-1,UKR: НТН
 srt://95.67.8.224:9136
 #EXTINF:-1,Наше улюблене кіно
@@ -118,7 +118,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433731
 #EXTINF:-1,UKR: K1 HD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433730
 #EXTINF:-1,UKR: Інтер
-srt://95.67.8.224:9094
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782726&extension=ts
 #EXTINF:-1,UKR: Інтер+ 
 srt://95.67.8.207:5151
 #EXTINF:-1,Суспільне Донбас
@@ -130,7 +130,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433721
 #EXTINF:-1,UKR: 2+2
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/995/index.m3u8
 #EXTINF:-1,UKR: СТБ HD
-srt://95.67.8.207:5418
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782762&extension=ts
 #EXTINF:-1,UKR: 1+1 INTERNATIONAL
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/280783
 #EXTINF:-1,UKR: CHANNEL 5 HD
@@ -139,8 +139,8 @@ srt://95.67.8.84:9119
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/280770
 #EXTINF:-1,UKR: LEOMAX 24
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/431475
-#EXTINF:-1,UKR: NTK
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/431473
+#EXTINF:-1,UKR: Перший національний
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782753&extension=ts
 #EXTINF:-1,UKR: 2+2
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/1016/index.m3u8
 #EXTINF:-1,UKR: ENTERFILM
@@ -160,7 +160,7 @@ srt://95.67.8.207:8111
 #EXTINF:-1,UKR: 2+2 MARAFON
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490694
 #EXTINF:-1,UKR: Україна
-srt://95.67.8.224:9216
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782709&extension=ts
 #EXTINF:-1,UKR: EKO TV
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643973
 #EXTINF:-1,UKR: KARAVAN TV
@@ -190,7 +190,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643959
 #EXTINF:-1,UKR: PRYAMIY
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643955
 #EXTINF:-1,UKR: ICTV
-srt://95.67.8.207:8022
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782640&extension=ts
 #EXTINF:-1,UKR: Новий Канал HD
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/15128/index.m3u8
 #EXTINF:-1,UKR: M1 HD
@@ -205,6 +205,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643926
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643925
 #EXTINF:-1,Kino TV HD
 srt://95.67.8.224:9063
+
 
 
 
