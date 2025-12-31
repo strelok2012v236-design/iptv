@@ -142,7 +142,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/431475
 #EXTINF:-1,UKR: Перший національний
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782753&extension=ts
 #EXTINF:-1,UKR: 2+2
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/1016/index.m3u8
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782602&extension=ts
 #EXTINF:-1,UKR: ENTERFILM
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490706
 #EXTINF:-1,Рибалка ТБ HD
@@ -156,9 +156,9 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/6313/index.m3u8
 #EXTINF:-1,UKR: SPORT 2
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/6314/index.m3u8
 #EXTINF:-1,UKR: 1+1 MARAFON
-srt://95.67.8.207:8111
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782594&extension=ts
 #EXTINF:-1,UKR: 2+2 MARAFON
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490694
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782603&extension=ts
 #EXTINF:-1,UKR: Україна
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782709&extension=ts
 #EXTINF:-1,UKR: EKO TV
@@ -205,6 +205,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643926
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643925
 #EXTINF:-1,Kino TV HD
 srt://95.67.8.224:9063
+
 
 
 
