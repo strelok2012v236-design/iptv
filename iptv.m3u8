@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1,RU: ----- RUSSIA -----
 #EXTINF:-1,RU: Первый канал
 http://10.224.1.30:44989/play/657/index.m3u8
@@ -11,7 +12,7 @@ http://pl.online24.pm/play/49/5FD91ED329C33F6/video.m3u8
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190250
 #EXTINF:-1,RU: Мужское кино
 http://de.online24.pm/play/209/5FD91ED329C33F6/video.m3u8
-#EXTINF:-1 tvg-id="TV4RU" tvg-name="TV4RU" tvg-logo="https://i.ibb.co/mVR1d4qx/hdlogo.png" TV4 Русское кино HD
+#EXTINF:-1 tvg-id="TV4RU" tvg-logo="https://i.ibb.co/mVR1d4qx/hdlogo.png" TV4 Русское кино HD
 https://dvr3.vokkavideo.xyz/TV4RUKINO/index.m3u8
 #EXTINF:-1,RU: ТНТ HD
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/237/index.m3u8
@@ -25,14 +26,14 @@ http://10.224.1.30:44989/play/664/index.m3u8
 http://10.224.1.30:44989/play/653/index.m3u8
 #EXTINF:-1,Русский бестселлер
 http://178.163.15.113:4022/udp/234.0.0.250:2000
-#EXTINF:-1,RU: МАТЧ Футбол 1
+#EXTINF:-1,RU: tvg-id="match-tv" МАТЧ Футбол 1
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190420
 #EXTINF:-1,RU: МАТЧ Футбол 2 HD
 http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/611267
 #EXTINF:-1,RU: МАТЧ Футбол 3 HD
 http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/611266
 #EXTINF:-1,RU: Матч ТВ
-http://10.224.1.30:44990/play/830/index.m3u8
+http://10.224.1.30:44990/p lay/830/index.m3u8
 #EXTINF:-1,RU: Матч ТВ HD
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/2413/index.m3u8
 #EXTINF:-1,RU: Матч Премьер
@@ -41,11 +42,11 @@ http://vipl.one/high/3ylmr5bzg6/52.m3u8
 http://euroroyals.com:8080/necati3434TRTR/083763927363hh3/190419
 #EXTINF:-1,RU: Матч Игра HD
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190424
-#EXTINF:-1,RU: EUROSPORT 1 HD
+#EXTINF:-1,RU: tvg-id="eurosport1" EUROSPORT 1 HD
 srt://95.67.8.224:9113
-#EXTINF:-1,RU: EUROSPORT
+#EXTINF:-1,RU: tvg-id="eurosport1" EUROSPORT
 srt://95.67.8.224:9105
-#EXTINF:-1,RU: EUROSPORT 2 HD
+#EXTINF:-1,RU: tvg-id="eurosport2" EUROSPORT 2 HD
 http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/234/index.m3u8
 #EXTINF:-1,RU: Звезда ТВ
 http://178.163.15.113:4022/udp/234.0.0.237:2000
@@ -107,7 +108,7 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/917/index.m3u8
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/399580
 #EXTINF:-1,UKR: ZOOM HD
 srt://95.67.8.207:8385
-#EXTINF:-1,UKR: 1+1
+#EXTINF:-1,UKR:tvg-id="1plus1" 1+1
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782591&extension=ts
 #EXTINF:-1,UKR: НТН
 srt://95.67.8.224:9136
@@ -117,7 +118,7 @@ srt://95.67.8.224:9223
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433731
 #EXTINF:-1,UKR: K1 HD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433730
-#EXTINF:-1,UKR: Інтер
+#EXTINF:-1,UKR: tvg-id="inter-ua" Інтер
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782726&extension=ts
 #EXTINF:-1,UKR: Інтер+ 
 srt://95.67.8.207:5151
@@ -205,6 +206,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643926
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643925
 #EXTINF:-1,Kino TV HD
 srt://95.67.8.224:9063
+
 
 
 
