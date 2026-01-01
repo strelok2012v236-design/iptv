@@ -27,27 +27,27 @@ http://10.224.1.30:44989/play/653/index.m3u8
 #EXTINF:-1,tvg-id="russky-bestseller", Русский бестселлер
 http://178.163.15.113:4022/udp/234.0.0.250:2000
 #EXTINF:-1,RU:tvg-id="match-football1", МАТЧ Футбол 1
-http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190420
+http://tv.ttk.mx:9114
 #EXTINF:-1,RU:tvg-id="match-football2", МАТЧ Футбол 2 HD
-http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/611267
+http://tv.ttk.mx:9111
 #EXTINF:-1,RU:tvg-id="match-football3", МАТЧ Футбол 3 HD
-http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/611266
+http://tv.ttk.mx:9116
 #EXTINF:-1,RU:tvg-id="match-tv", Матч ТВ
 http://10.224.1.30:44990/play/830/index.m3u8
 #EXTINF:-1,RU:tvg-id="match-tv", Матч ТВ HD
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/2413/index.m3u8
+https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
 #EXTINF:-1,RU:tvg-id="match-premier", Матч Премьер
-http://vipl.one/high/3ylmr5bzg6/52.m3u8
+http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 #EXTINF:-1,RU:tvg-id="match-arena", Матч Арена HD
-http://euroroyals.com:8080/necati3434TRTR/083763927363hh3/190419
+http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1,RU:tvg-id="match-igra", Матч Игра HD
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190424
 #EXTINF:-1,RU: tvg-id="eurosport1", EUROSPORT 1 HD
-srt://95.67.8.224:9113
-#EXTINF:-1,RU: tvg-id="eurosport1", EUROSPORT
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1,RU: tvg-id="eurosport1", EUROSPORT 
 srt://95.67.8.224:9105
 #EXTINF:-1,RU: tvg-id="eurosport2", EUROSPORT 2 HD
-http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/234/index.m3u8
+https://flussonic.salomtv.uz/eurosport_2/video.m3u8
 #EXTINF:-1,RU: tvg-id="zvezda", Звезда ТВ
 http://178.163.15.113:4022/udp/234.0.0.237:2000
 #EXTINF:-1,RU:tvg-id="tv1000-russkoe-kino", TV1000 РУССКОЕ HD
@@ -158,6 +158,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643926
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643925
 #EXTINF:-1, Kino TV HD
 srt://95.67.8.224:9063
+
 
 
 
