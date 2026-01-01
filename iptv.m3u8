@@ -26,7 +26,7 @@ http://10.224.1.30:44989/play/664/index.m3u8
 http://10.224.1.30:44989/play/653/index.m3u8
 #EXTINF:-1,Русский бестселлер
 http://178.163.15.113:4022/udp/234.0.0.250:2000
-#EXTINF:-1,RU: tvg-id="match-tv" МАТЧ Футбол 1
+#EXTINF:-1,RU: tvg-id="match-tv", МАТЧ Футбол 1
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190420
 #EXTINF:-1,RU: МАТЧ Футбол 2 HD
 http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/611267
@@ -42,11 +42,11 @@ http://vipl.one/high/3ylmr5bzg6/52.m3u8
 http://euroroyals.com:8080/necati3434TRTR/083763927363hh3/190419
 #EXTINF:-1,RU: Матч Игра HD
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190424
-#EXTINF:-1,RU: tvg-id="eurosport1" EUROSPORT 1 HD
+#EXTINF:-1,RU: tvg-id="eurosport1", EUROSPORT 1 HD
 srt://95.67.8.224:9113
-#EXTINF:-1,RU: tvg-id="eurosport1" EUROSPORT
+#EXTINF:-1,RU: tvg-id="eurosport1", EUROSPORT
 srt://95.67.8.224:9105
-#EXTINF:-1,RU: tvg-id="eurosport2" EUROSPORT 2 HD
+#EXTINF:-1,RU: tvg-id="eurosport2", EUROSPORT 2 HD
 http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/234/index.m3u8
 #EXTINF:-1,RU: Звезда ТВ
 http://178.163.15.113:4022/udp/234.0.0.237:2000
@@ -108,7 +108,7 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/917/index.m3u8
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/399580
 #EXTINF:-1,UKR: ZOOM HD
 srt://95.67.8.207:8385
-#EXTINF:-1,UKR:tvg-id="1plus1" 1+1
+#EXTINF:-1,UKR:tvg-id="1plus1", 1+1
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782591&extension=ts
 #EXTINF:-1,UKR: НТН
 srt://95.67.8.224:9136
@@ -118,7 +118,7 @@ srt://95.67.8.224:9223
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433731
 #EXTINF:-1,UKR: K1 HD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433730
-#EXTINF:-1,UKR: tvg-id="inter-ua" Інтер
+#EXTINF:-1,UKR: tvg-id="inter-ua", Інтер
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782726&extension=ts
 #EXTINF:-1,UKR: Інтер+ 
 srt://95.67.8.207:5151
@@ -206,6 +206,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643926
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643925
 #EXTINF:-1,Kino TV HD
 srt://95.67.8.224:9063
+
 
 
 
