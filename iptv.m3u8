@@ -1,46 +1,46 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1,RU: ----- RUSSIA -----
-#EXTINF:-1,RU: Первый канал
+#EXTINF:-1,RU: tvg-id="1hd", Первый канал
 http://10.224.1.30:44989/play/657/index.m3u8
-#EXTINF:-1,RU: Россия 1
+#EXTINF:-1,RU: tvg-id="rossia1", Россия 1
 http://10.224.1.30:44989/play/661/index.m3u8
-#EXTINF:-1,Россия HD
+#EXTINF:-1, tvg-id="rossia1", Россия HD
 http://178.163.15.113:4022/udp/234.0.0.112:2000
-#EXTINF:-1,RU: Россия 24
+#EXTINF:-1,RU:tvg-id="rossia-24", Россия 24
 http://pl.online24.pm/play/49/5FD91ED329C33F6/video.m3u8
-#EXTINF:-1,RU: Звезда
+#EXTINF:-1,RU:tvg-id="zvezda", Звезда
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190250
-#EXTINF:-1,RU: Мужское кино
+#EXTINF:-1,RU: tvg-id="muzhskoe-kino", Мужское кино
 http://de.online24.pm/play/209/5FD91ED329C33F6/video.m3u8
-#EXTINF:-1 tvg-id="TV4RU" tvg-logo="https://i.ibb.co/mVR1d4qx/hdlogo.png" TV4 Русское кино HD
+#EXTINF:-1 tnt tvg-logo="https://i.ibb.co/mVR1d4qx/hdlogo.png" TV4 Русское кино HD
 https://dvr3.vokkavideo.xyz/TV4RUKINO/index.m3u8
-#EXTINF:-1,RU: ТНТ HD
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/237/index.m3u8
-#EXTINF:-1,RU: 5 Канал
+#EXTINF:-1,RU: tvg-id="tnt", ТНТ
+http://10.224.1.30:44989/play/667/index.m3u8
+#EXTINF:-1,RU: tvg-id="5kanal-ru", 5 Канал
 http://10.224.1.30:44989/play/659/index.m3u8
-#EXTINF:-1,RU: ТВЦ
+#EXTINF:-1,RU: tvg-id="tvcentr", ТВЦ
 http://178.163.7.53:81/udp/234.0.0.192:2000
-#EXTINF:-1,RU: СТС
+#EXTINF:-1,RU:tvg-id="sts", СТС
 http://10.224.1.30:44989/play/664/index.m3u8
-#EXTINF:-1,RU: НТВ
+#EXTINF:-1,RU:tvg-id="ntv", НТВ
 http://10.224.1.30:44989/play/653/index.m3u8
-#EXTINF:-1,Русский бестселлер
+#EXTINF:-1,tvg-id="russky-bestseller", Русский бестселлер
 http://178.163.15.113:4022/udp/234.0.0.250:2000
-#EXTINF:-1,RU: tvg-id="match-tv", МАТЧ Футбол 1
+#EXTINF:-1,RU:tvg-id="match-football1", МАТЧ Футбол 1
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190420
-#EXTINF:-1,RU: МАТЧ Футбол 2 HD
+#EXTINF:-1,RU:tvg-id="match-football2", МАТЧ Футбол 2 HD
 http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/611267
-#EXTINF:-1,RU: МАТЧ Футбол 3 HD
+#EXTINF:-1,RU:tvg-id="match-football3", МАТЧ Футбол 3 HD
 http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/611266
-#EXTINF:-1,RU: Матч ТВ
-http://10.224.1.30:44990/p lay/830/index.m3u8
-#EXTINF:-1,RU: Матч ТВ HD
+#EXTINF:-1,RU:tvg-id="match-tv", Матч ТВ
+http://10.224.1.30:44990/play/830/index.m3u8
+#EXTINF:-1,RU:tvg-id="match-tv", Матч ТВ HD
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/2413/index.m3u8
-#EXTINF:-1,RU: Матч Премьер
+#EXTINF:-1,RU:tvg-id="match-premier", Матч Премьер
 http://vipl.one/high/3ylmr5bzg6/52.m3u8
-#EXTINF:-1,RU: Матч Арена HD
+#EXTINF:-1,RU:tvg-id="match-arena", Матч Арена HD
 http://euroroyals.com:8080/necati3434TRTR/083763927363hh3/190419
-#EXTINF:-1,RU: Матч Игра HD
+#EXTINF:-1,RU:tvg-id="match-igra", Матч Игра HD
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190424
 #EXTINF:-1,RU: tvg-id="eurosport1", EUROSPORT 1 HD
 srt://95.67.8.224:9113
@@ -48,110 +48,86 @@ srt://95.67.8.224:9113
 srt://95.67.8.224:9105
 #EXTINF:-1,RU: tvg-id="eurosport2", EUROSPORT 2 HD
 http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/234/index.m3u8
-#EXTINF:-1,RU: Звезда ТВ
+#EXTINF:-1,RU: tvg-id="zvezda", Звезда ТВ
 http://178.163.15.113:4022/udp/234.0.0.237:2000
-#EXTINF:-1,RU: TV1000 РУССКОЕ HD
+#EXTINF:-1,RU:tvg-id="tv1000-russkoe-kino", TV1000 РУССКОЕ HD
 http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/510376
-#EXTINF:-1,RU: TV 1000 HD
+#EXTINF:-1,RU:tvg-id="tv1000", TV 1000 HD
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/6387/index.m3u8
-#EXTINF:-1,Любимое кино
+#EXTINF:-1,tvg-id="lubimoe-kino", Любимое кино
 http://178.163.15.113:4022/udp/234.0.0.102:2000
-#EXTINF:-1,RU: НТВ Стиль
+#EXTINF:-1,RU:tvg-id="ntv-style", НТВ Стиль
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/20037/index.m3u8
-#EXTINF:-1,RU: НТВ Сериал
+#EXTINF:-1,RU:tvg-id="ntv-serial", НТВ Сериал
 http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/621762
-#EXTINF:-1,RU: НТВ Право
+#EXTINF:-1,RU:tvg-id="ntv-pravo", НТВ Право
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/743/index.m3u8
-#EXTINF:-1,RU: НТВ Мир
+#EXTINF:-1,RU:tvg-id="ntv-mir", НТВ Мир
 http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/621760
-#EXTINF:-1,RU: Охотник и Рыболов
+#EXTINF:-1,RU:tvg-id="oxotnik-i-rybolov", Охотник и Рыболов
 http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/510459
-#EXTINF:-1,Дикая охота HD
+#EXTINF:-1,tvg-id="dikaya-oxota-hd",  Дикая охота HD
 http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/581345
-#EXTINF:-1,RU: ТВ-3
+#EXTINF:-1,RU:tvg-id="tv3-ru", ТВ-3
 http://10.224.1.30:44990/play/761/index.m3u8
-#EXTINF:-1,RU: Дикая Рыбалка HD
+#EXTINF:-1,RU: tvg-id="dikaya-rybalka-hd", Дикая Рыбалка HD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/608925
-#EXTINF:-1,RU: HTB
-http://10.224.1.30:44989/play/653/index.m3u8
-#EXTINF:-1,RU: МИР
+#EXTINF:-1,RU: tvg-id="mir", МИР
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190248
-#EXTINF:-1,RU: МИР 24
+#EXTINF:-1,RU: tvg-id="mir-24", МИР 24
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/2107/index.m3u8
-#EXTINF:-1,RU: Мир HD
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/15119/index.m3u8
-#EXTINF:-1,RU: НТВ ХИТ
-http://178.163.15.113:4022/udp/234.0.0.236:2000
-#EXTINF:-1,RU: НТВ СЕРИАЛ
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/9147/index.m3u8
-#EXTINF:-1,RU: РАДИО ШАНСОН
+#EXTINF:-1,RU: tvg-id="radio-shanson", РАДИО ШАНСОН
 http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/431556
-#EXTINF:-1,RU: Шансон ТВ HD
-http://86.57.209.210/Shanson/index.m3u8
-#EXTINF:-1,RU: Шансон ТВ
+#EXTINF:-1,RU:tvg-id="shanson-tv", Шансон ТВ
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/859/index.m3u8
-#EXTINF:-1,RU: НТВ HD
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/213/index.m3u8
-#EXTINF:-1,RU: LA MINOR
+#EXTINF:-1,RU:tvg-id="la-minor", LA MINOR
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581278
-#EXTINF:-1,Охота и рыбалка
+#EXTINF:-1,tvg-id="oxota-i-rybalka", Охота и рыбалка
 http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/581242
-#EXTINF:-1,RU: VF Охота
+#EXTINF:-1,RU:tvg-id="vf-oxota", VF Охота
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/15513/index.m3u8
-#EXTINF:-1,RU: СТС HD
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/6303/index.m3u8
-#EXTINF:-1,RU: Диалоги о рыбалке
+#EXTINF:-1,RU:tvg-id="dialogi-o-rybalke", Диалоги о рыбалке
 http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8
-#EXTINF:-1,RU: Охотник и рыболов HD
+#EXTINF:-1,RU:tvg-id="oxotnik-i-rybolov-hd", Охотник и рыболов HD
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/917/index.m3u8
 #EXTINF:-1,UKR: ----- UKRAINE -----
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/399580
-#EXTINF:-1,UKR: ZOOM HD
+#EXTINF:-1,UKR:tvg-id="oxotnik-i-rybolov-hd", ZOOM HD
 srt://95.67.8.207:8385
-#EXTINF:-1,UKR:tvg-id="1plus1", 1+1
+#EXTINF:-1,UKR:tvg-id="1plus1-ukraina", 1+1
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782591&extension=ts
-#EXTINF:-1,UKR: НТН
+#EXTINF:-1,UKR:tvg-id="oxotnik-i-rybolov-hd", НТН
 srt://95.67.8.224:9136
-#EXTINF:-1,Наше улюблене кіно
+#EXTINF:-1,tvg-id="oxotnik-i-rybolov-hd", Наше улюблене кіно
 srt://95.67.8.224:9223
-#EXTINF:-1,UKR: K2 HD
+#EXTINF:-1,UKR:tvg-id="oxotnik-i-rybolov-hd", K2 HD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433731
-#EXTINF:-1,UKR: K1 HD
+#EXTINF:-1,UKR:tvg-id="oxotnik-i-rybolov-hd", K1 HD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433730
 #EXTINF:-1,UKR: tvg-id="inter-ua", Інтер
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782726&extension=ts
-#EXTINF:-1,UKR: Інтер+ 
+#EXTINF:-1,UKR:tvg-id="inter-plus-ua", Інтер+ 
 srt://95.67.8.207:5151
-#EXTINF:-1,Суспільне Донбас
+#EXTINF:-1,tvg-id="ua-donbas", Суспільне Донбас
 srt://95.67.8.224:9217
-#EXTINF:-1,UKR: 8 KANAL INT
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433722
-#EXTINF:-1,UKR: 24 KANAL
+#EXTINF:-1,UKR:tvg-id="24news-ua", 24 KANAL
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433721
-#EXTINF:-1,UKR: 2+2
+#EXTINF:-1,UKR:tvg-id="2plus2", 2+2
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782601&extension=ts
-#EXTINF:-1,UKR: СТБ HD
+#EXTINF:-1,UKR:tvg-id="stb-ua", СТБ HD
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782762&extension=ts
-#EXTINF:-1,UKR: 1+1 INTERNATIONAL
+#EXTINF:-1,UKR:tvg-id="1plus1-int", 1+1 INTERNATIONAL
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/280783
-#EXTINF:-1,UKR: CHANNEL 5 HD
+#EXTINF:-1,UKR:tvg-id="5kanal-ua", CHANNEL 5 HD
 srt://95.67.8.84:9119
-#EXTINF:-1,UKR: KYIV TV
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/280770
-#EXTINF:-1,UKR: LEOMAX 24
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/431475
-#EXTINF:-1,UKR: Перший національний
+#EXTINF:-1,UKR:tvg-id="ua-pershy", Перший національний
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782753&extension=ts
-#EXTINF:-1,UKR: 2+2
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782602&extension=ts
-#EXTINF:-1,UKR: ENTERFILM
+#EXTINF:-1,UKR:tvg-id="enter-film", ENTERFILM
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490706
-#EXTINF:-1,Рибалка ТБ HD
+#EXTINF:-1,tvg-id="rybalka", Рибалка ТБ HD
 srt://95.67.8.207:9023
-#EXTINF:-1,UKR: Новий Канал
+#EXTINF:-1,UKR:tvg-id="novy-kanal-ua", Новий Канал
 srt://95.67.8.207:8003
-#EXTINF:-1,UKR: NEWS NETWORK
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/490697
 #EXTINF:-1,UKR: SPORT 1
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/6313/index.m3u8
 #EXTINF:-1,UKR: SPORT 2
@@ -160,52 +136,29 @@ http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/6314/index.m3u8
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782594&extension=ts
 #EXTINF:-1,UKR: 2+2 MARAFON
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782603&extension=ts
-#EXTINF:-1,UKR: Україна
+#EXTINF:-1,UKR:tvg-id="my-ukraina", Україна
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782709&extension=ts
-#EXTINF:-1,UKR: EKO TV
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643973
-#EXTINF:-1,UKR: KARAVAN TV
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643972
-#EXTINF:-1,UKR: NATALY
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643971
-#EXTINF:-1,UKR: PROVENCE
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643970
 #EXTINF:-1,UKR: DIM TV
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643968
-#EXTINF:-1,Перший HD
+#EXTINF:-1, tvg-id="ua-pershy", Перший HD
 srt://95.67.8.207:5412
-#EXTINF:-1,UKR: TBN UKRAINE
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643965
-#EXTINF:-1,UKR: ECHO
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643964
-#EXTINF:-1,UKR: SBN INTERNATIONAL
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643963
-#EXTINF:-1,UKR: TET
+#EXTINF:-1,UKR:tvg-id="tet-ua", TET
 srt://95.67.8.224:9035
-#EXTINF:-1,UKR: SONCE (UA)
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643961
-#EXTINF:-1,UKR: ICTV 2 SD
+#EXTINF:-1, ICTV 2 SD
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/6339/index.m3u8
-#EXTINF:-1,UKR: WE-UKRAINE+
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643959
-#EXTINF:-1,UKR: PRYAMIY
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643955
-#EXTINF:-1,UKR: ICTV
+#EXTINF:-1,UKR:tvg-id="ictv-ukraine", ICTV
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782640&extension=ts
-#EXTINF:-1,UKR: Новий Канал HD
-http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/15128/index.m3u8
-#EXTINF:-1,UKR: M1 HD
+#EXTINF:-1,UKR:tvg-id="m1-ua", M1 HD
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/6334/index.m3u8
-#EXTINF:-1,UKR: M2 HD
+#EXTINF:-1,UKR:tvg-id="m2-ua", M2 HD
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/6335/index.m3u8
-#EXTINF:-1,UKR: OCE HD
-http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643927
-#EXTINF:-1,UKR: ICTV 2
+#EXTINF:-1,UKR:tvg-id="ictv-ukraine", ICTV 2
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643926
-#EXTINF:-1,UKR: TVIY SERIAL
+#EXTINF:-1,UKR:tvg-id="tvij-serial", TVIY SERIAL
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643925
-#EXTINF:-1,Kino TV HD
+#EXTINF:-1, Kino TV HD
 srt://95.67.8.224:9063
+
 
 
 
