@@ -5,7 +5,7 @@ http://10.224.1.30:44989/play/657/index.m3u8
 #EXTINF:-1,RU: tvg-id="rossia1", Россия 1
 http://10.224.1.30:44989/play/661/index.m3u8
 #EXTINF:-1, tvg-id="rossia1", Россия HD
-http://178.163.15.113:4022/udp/234.0.0.112:2000
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1,RU:tvg-id="rossia-24", Россия 24
 http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1,RU:tvg-id="zvezda", Звезда
@@ -160,6 +160,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643926
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643925
 #EXTINF:-1, Kino TV HD
 srt://95.67.8.224:9063
+
 
 
 
