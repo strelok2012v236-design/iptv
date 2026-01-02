@@ -10,8 +10,12 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1,RU:tvg-id="zvezda", Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1,RU:tvg-id="zvezda-plus", Звезда Плюс
+http://qiiwohe9.megatv.fun/iptv/BQLG7HSS5RC5PXL43BLTCERZ/19230/index.m3u8
 #EXTINF:-1,RU: tvg-id="muzhskoe-kino", Мужское кино
 http://178.212.71.253:8000/play/126/index.m3u8
+#EXTINF:-1,RU: tvg-id="domkino", Дом кино
+http://qiiwohe9.megatv.fun/iptv/BQLG7HSS5RC5PXL43BLTCERZ/154/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mVR1d4qx/hdlogo.png" TV4 Русское кино HD
 https://dvr3.vokkavideo.xyz/TV4RUKINO/index.m3u8
 #EXTINF:-1,RU: tvg-id="tnt", ТНТ
@@ -33,7 +37,7 @@ https://cdn.ntv.ru/th_pravo/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-xit", , НТВ-Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,tvg-id="russky-bestseller", Русский бестселлер
-http://178.163.15.113:4022/udp/234.0.0.250:2000
+http://qiiwohe9.megatv.fun/iptv/BQLG7HSS5RC5PXL43BLTCERZ/905/index.m3u8
 #EXTINF:-1,RU:tvg-id="match-football1", МАТЧ Футбол 1
 http://tv.ttk.mx:9114
 #EXTINF:-1,RU:tvg-id="match-football2", МАТЧ Футбол 2 HD
@@ -160,6 +164,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643926
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643925
 #EXTINF:-1, Kino TV HD
 srt://95.67.8.224:9063
+
 
 
 
