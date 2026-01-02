@@ -12,7 +12,7 @@ http://77.232.131.211/Rossiya24/index.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1,RU: tvg-id="muzhskoe-kino", Мужское кино
 http://178.212.71.253:8000/play/126/index.m3u8
-#EXTINF:-1 tnt tvg-logo="https://i.ibb.co/mVR1d4qx/hdlogo.png" TV4 Русское кино HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mVR1d4qx/hdlogo.png" TV4 Русское кино HD
 https://dvr3.vokkavideo.xyz/TV4RUKINO/index.m3u8
 #EXTINF:-1,RU: tvg-id="tnt", ТНТ
 http://10.224.1.30:44989/play/667/index.m3u8
@@ -160,6 +160,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643926
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643925
 #EXTINF:-1, Kino TV HD
 srt://95.67.8.224:9063
+
 
 
 
