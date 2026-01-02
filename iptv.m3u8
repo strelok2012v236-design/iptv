@@ -85,7 +85,7 @@ http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_mobil/playlist.m3u8
 #EXTINF:-1 tvg-id="radio-shanson", РАДИО ШАНСОН
 http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/431556
 #EXTINF:-1,RU:tvg-id="shanson-tv", Шансон ТВ
-http://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1,RU:tvg-id="la-minor", LA MINOR
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/581278
 #EXTINF:-1,tvg-id="oxota-i-rybalka", Охота и рыбалка
@@ -164,6 +164,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643926
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643925
 #EXTINF:-1, Kino TV HD
 srt://95.67.8.224:9063
+
 
 
 
