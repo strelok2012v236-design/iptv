@@ -106,9 +106,9 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782591&exten
 srt://95.67.8.224:9136
 #EXTINF:-1,tvg-id="oxotnik-i-rybolov-hd", Наше улюблене кіно
 srt://95.67.8.224:9223
-#EXTINF:-1,UKR:tvg-id="oxotnik-i-rybolov-hd", K2 HD
+#EXTINF:-1,UKR:tvg-id="k2-ua", K2 HD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433731
-#EXTINF:-1,UKR:tvg-id="oxotnik-i-rybolov-hd", K1 HD
+#EXTINF:-1,UKR:tvg-id="k1-ua", K1 HD
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/433730
 #EXTINF:-1,UKR: tvg-id="inter-ua", Інтер
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:08:13:BC&stream=1782726&extension=ts
@@ -164,6 +164,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643926
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643925
 #EXTINF:-1, Kino TV HD
 srt://95.67.8.224:9063
+
 
 
 
