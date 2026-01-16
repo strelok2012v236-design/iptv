@@ -26,8 +26,8 @@ http://10.224.1.30:44989/play/659/index.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1,RU:tvg-id="sts", СТС
 http://10.224.1.30:44989/play/664/index.m3u8
-#EXTINF:-1,RU:tvg-id="ntv", НТВ
-http://10.224.1.30:44989/play/653/index.m3u8
+#EXTINF:-1,RU:tvg-id="ntv", НТВ HD
+https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1,RU:tvg-id="ntv-style", НТВ Стиль
 http://e2b16447.rossteleccom.net/iptv/ZMN7W39MQUBYT5/20037/index.m3u8
 #EXTINF:-1,RU:tvg-id="ntv-serial", НТВ Сериал
@@ -60,8 +60,8 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 srt://95.67.8.224:9105
 #EXTINF:-1,RU: tvg-id="eurosport2", EUROSPORT 2 HD
 https://flussonic.salomtv.uz/eurosport_2/video.m3u8
-#EXTINF:-1,RU: tvg-id="zvezda", Звезда ТВ
-http://178.163.15.113:4022/udp/234.0.0.237:2000
+#EXTINF:-1,RU: tvg-id="zvezda", Звезда ТВ HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1,RU:tvg-id="tv1000-russkoe-kino", TV1000 РУССКОЕ HD
 http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/510376
 #EXTINF:-1,RU:tvg-id="tv1000", TV 1000 HD
@@ -80,8 +80,8 @@ http://10.224.1.30:44990/play/761/index.m3u8
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/608925
 #EXTINF:-1,RU: tvg-id="mir", МИР
 http://euroroyals.com:8080/klosedatteln/NiekzSzZaf/190248
-#EXTINF:-1,RU: tvg-id="mir-24", МИР 24
-http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_mobil/playlist.m3u8
+#EXTINF:-1,RU: tvg-id="mir-24", МИР 24 HD
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="radio-shanson", РАДИО ШАНСОН
 http://xneoip.online:8080/DeNiSoNkEl/nPcCsz5hHn/431556
 #EXTINF:-1,RU:tvg-id="shanson-tv", Шансон ТВ
@@ -164,6 +164,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643926
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643925
 #EXTINF:-1, Kino TV HD
 srt://95.67.8.224:9063
+
 
 
 
