@@ -3,7 +3,7 @@
 #EXTINF:-1,RU: tvg-id="1hd", Первый канал
 http://10.224.1.30:44989/play/657/index.m3u8
 #EXTINF:-1,RU: tvg-id="rossia1", Россия 1
-http://10.224.1.30:44989/play/661/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO4y0CelYt0/russia1-sd/index.m3u8
 #EXTINF:-1, tvg-id="rossia1", Россия HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1,RU:tvg-id="rossia-24", Россия 24
@@ -164,6 +164,7 @@ http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643926
 http://ege.efetv.de:8080/rBwPiGy7dF/MDnFkpWVzJ/643925
 #EXTINF:-1, Kino TV HD
 srt://95.67.8.224:9063
+
 
 
 
